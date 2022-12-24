@@ -3,10 +3,10 @@
     <identifier>Carpets++ Deutsch</identifier>
     <version>0.1.0.1</version>
     <dependencies>
-        <li>Daniledman.Carpets_copy</li>
+        <li>Daniledman.Carpets</li>
 	</dependencies>
     <loadAfter>
-        <li>Daniledman.Carpets_copy</li>
+        <li>Daniledman.Carpets</li>
     </loadAfter>
     <showCrossPromotions>false</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/bartdbx/CarpetsPlusPlus-Deutsch/master/About/Manifest.xml</manifestUri>
