@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>CarpetsP</defName>
+    <label>Teppiche+</label>
+    <description>Die Forschung ermöglicht die Herstellung von einfachen Teppichen, die keine Oberfläche drstellen, aber die in jeder Form gewählt werden können. Gleichzeitig werden in jedem Raum die Wirkung auf die Ästhetik und die Schönheit des Teppichs an sich zusammengefasst. Teppiche können aus jedem Textil hergestellt werden, die Art des Textils beeinflusst die Farbe und Schönheit des Teppichs. Teppiche stellen Verbindungen dar, mit denen Räume diskret miteinander in Verbindung gebracht werden können. Die Teppiche befinden sich im Bereich «Teppiche++».</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <prerequisites>
+      <li>CarpetMaking</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>1.4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>CarpetsPP</defName>
+    <label>Teppiche++</label>
+    <description>Die Forschung ermöglicht die Herstellung von komplexen, gemusterten Teppichen, die in jeder Form wählbar sind. Gleichzeitig werden in jedem Raum die Wirkung auf die Ästhetik und die Schönheit des Teppichs an sich zusammengefasst. Teppiche können aus jedem Textil hergestellt werden, die Art des Textils beeinflusst die Farbe und Schönheit des Teppichs. Teppiche stellen Verbindungen dar, mit denen Räume diskret miteinander in Verbindung gebracht werden können. Die Teppiche befinden sich im Bereich «Teppiche++».</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <prerequisites>
+      <li>CarpetsP</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>1.4</researchViewY>
+  </ResearchProjectDef>
+</Defs>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--==================== SIMPLE CARTETS ======================== -->
+    <SimpleCarpetDan_q.label>Teppich No. 1</SimpleCarpetDan_q.label>
+    <SimpleCarpetDan_q.description>Einfacher Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Texture: 1.\n Basisästhetik: 3</SimpleCarpetDan_q.description>
+
+    <SimpleCarpetDan_w.label>Teppich No. 2</SimpleCarpetDan_w.label>
+    <SimpleCarpetDan_w.description>Einfacher Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Texture: 1.\n Basisästhetik: 3</SimpleCarpetDan_w.description>
+
+    <SimpleCarpetDan_e.label>Teppich No. 3</SimpleCarpetDan_e.label>
+    <SimpleCarpetDan_e.description>Einfacher Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Texture: 1.\n Basisästhetik: 3</SimpleCarpetDan_e.description>
+  
+  <!--==================== SIMPLE PATTERNED CARTETS ======================== -->
+    <ChessCarpetDan.label>Schachteppich</ChessCarpetDan.label>
+    <ChessCarpetDan.description>Einfacher Schachteppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Basisästhetik: 4.</ChessCarpetDan.description>
+
+    <StripedCarpetDan.label>Teppich, gestreift</StripedCarpetDan.label>
+    <StripedCarpetDan.description>Einfacher gestreifter Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Basisästhetik: 4.</StripedCarpetDan.description>
+  
+  <!--==================== ADVANCED PATTERNED CARTETS ======================== -->
+    <AdvCarpetDan_q.label>Edelteppich No. 1</AdvCarpetDan_q.label>
+    <AdvCarpetDan_q.description>Fortgeschrittener Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Texture: 1.\n Basisästhetik: 5</AdvCarpetDan_q.description>
+
+    <AdvCarpetDan_w.label>Edelteppich No. 2</AdvCarpetDan_w.label>
+    <AdvCarpetDan_w.description>Fortgeschrittener Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Texture: 2.\n Basisästhetik: 5</AdvCarpetDan_w.description>
+
+    <AdvCarpetDan_e.label>Edelteppich No. 3</AdvCarpetDan_e.label>
+    <AdvCarpetDan_e.description>Fortgeschrittener Teppich ohne komplizierte Muster mit eingebautem Elektrodraht.\n Texture: 3.\n Basisästhetik: 5</AdvCarpetDan_e.description>
+  
+  <!--==================== ELITE PATTERNED CARTETS ======================== -->
+    <GoldenCarpetDan.label>Goldteppich</GoldenCarpetDan.label>
+    <GoldenCarpetDan.description>Elite Teppich mit goldenen Fliesen und eingebautem Elektrodraht.\n Basisästhetik: 7</GoldenCarpetDan.description>
+
+    <EliteCarpetDan.label>Eliteteppich</EliteCarpetDan.label>
+    <EliteCarpetDan.description>Elite-Teppich aus zwei Materialien, das zweite Material enthält das Fell eines Thrumbo und eingebauten Elektrodraht.Verbessert die Grundsauberkeit des Raumes. \n Basisästhetik: 7</EliteCarpetDan.description>
+
+    <Plitka.label>Teppiche (unnatürliche Oberflächen in Vanilla und kompatiblen Mod)</Plitka.label>
+  
+   <!-- NEU SEIT 1.4 -->
+  
+    <CarpetDanThinLine.label>Dünne Linie</CarpetDanThinLine.label>
+    <CarpetDanThinLine.description>Dünne Linie. Notwendig für Teppichränder oder nur für das optisches Design.</CarpetDanThinLine.description>
+  
+    <CarpetDanThickLine.label>Medium Linie</CarpetDanThickLine.label>
+    <CarpetDanThickLine.description>Medium Linie. Notwendig für Teppichränder oder nur für das optisches Design.</CarpetDanThickLine.description>
+
+    <CarpetDanThickLineQ.label>Breite Linie</CarpetDanThickLineQ.label>
+    <CarpetDanThickLineQ.description>Beite Linie. Notwendig für Teppichränder oder nur für das optisches Design..</CarpetDanThickLineQ.description>
+
+</LanguageData>

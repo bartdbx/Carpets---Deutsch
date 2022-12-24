@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignationCategoryDef>
+    <defName>FurnitureCarpetsPP</defName>
+    <label>Teppiche++</label>
+    <description>Fließende Teppiche jeder Form aus dem Mod «Carpets ++», die keine Oberfläche darstellen. Müssen in der Forschung «Teppiche +» und «Teppiche ++» studiert werden.</description>
+    <order>11</order>
+    <!-- Near Furniture -->
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+</Defs>
