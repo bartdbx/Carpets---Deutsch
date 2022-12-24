@@ -9,6 +9,6 @@
         <li>Daniledman.Carpets_copy</li>
     </loadAfter>
     <showCrossPromotions>false</showCrossPromotions>
-    <manifestUri>https://raw.githubusercontent.com/bartdbx/CarpetsPlusPlus/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/bartdbx/CarpetsPlusPlus/releases/latest</downloadUri>
+    <manifestUri>https://raw.githubusercontent.com/bartdbx/CarpetsPlusPlus-Deutsch/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/bartdbx/CarpetsPlusPlus-Deutsch/releases/latest</downloadUri>
 </Manifest>
